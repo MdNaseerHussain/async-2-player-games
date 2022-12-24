@@ -1,0 +1,6 @@
+[submodule "async-tictactoe-frontend"]
+	path = async-tictactoe-frontend
+	url = https://github.com/MdNaseerHussain/async-tictactoe-frontend.git
+[submodule "async-tictactoe-backend"]
+	path = async-tictactoe-backend
+	url = https://github.com/MdNaseerHussain/async-tictactoe-backend.git
